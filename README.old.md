@@ -1,2 +1,0 @@
-# showflix
-Netflix Clone
